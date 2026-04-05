@@ -107,7 +107,7 @@ print(result.rstrip(b'\x00').decode())
 
 ## 플래그
 ```
-RS{oh_its_a_TEAreasure_chest}
+RS{REDACTED}
 ```
 
 ## 배운 점
